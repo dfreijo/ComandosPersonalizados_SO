@@ -1,0 +1,16 @@
+﻿  funciones.c
+C:\Users\danif\OneDrive\Escritorio\Git\ComandosPersonalizados_SO\Producto3\Producto3\funciones.c(281,29): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'char *[20]'
+C:\Users\danif\OneDrive\Escritorio\Git\ComandosPersonalizados_SO\Producto3\Producto3\funciones.c(281,20): warning C4024: 'strcpy': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\danif\OneDrive\Escritorio\Git\ComandosPersonalizados_SO\Producto3\Producto3\funciones.c(376,35): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'char *[20]'
+C:\Users\danif\OneDrive\Escritorio\Git\ComandosPersonalizados_SO\Producto3\Producto3\funciones.c(376,26): warning C4024: 'modificarDNS': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\danif\OneDrive\Escritorio\Git\ComandosPersonalizados_SO\Producto3\Producto3\funciones.c(404,39): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'char *[20]'
+C:\Users\danif\OneDrive\Escritorio\Git\ComandosPersonalizados_SO\Producto3\Producto3\funciones.c(404,30): warning C4024: 'modificarDNS': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\danif\OneDrive\Escritorio\Git\ComandosPersonalizados_SO\Producto3\Producto3\funciones.c(412,35): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'char *[20]'
+C:\Users\danif\OneDrive\Escritorio\Git\ComandosPersonalizados_SO\Producto3\Producto3\funciones.c(412,26): warning C4024: 'modificarDNS': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\danif\OneDrive\Escritorio\Git\ComandosPersonalizados_SO\Producto3\Producto3\funciones.c(418,35): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'char *[20]'
+C:\Users\danif\OneDrive\Escritorio\Git\ComandosPersonalizados_SO\Producto3\Producto3\funciones.c(418,26): warning C4024: 'modificarDNS': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\danif\OneDrive\Escritorio\Git\ComandosPersonalizados_SO\Producto3\Producto3\funciones.c(426,31): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'char *[20]'
+C:\Users\danif\OneDrive\Escritorio\Git\ComandosPersonalizados_SO\Producto3\Producto3\funciones.c(426,22): warning C4024: 'modificarDNS': tipos distintos para el parámetro formal y el parámetro real 1
+  Producto3.c
+  Generando código...
+  Producto3.vcxproj -> C:\Users\danif\OneDrive\Escritorio\Git\ComandosPersonalizados_SO\Producto3\x64\Debug\Producto3.exe
